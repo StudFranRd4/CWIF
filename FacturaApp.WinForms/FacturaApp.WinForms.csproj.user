@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\Charting\BarChartControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Charting\PieChartControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Collections\CollectionEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Collections\ReadOnlyListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Collections\SimpleItemEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\DynamicEntityEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Compra\CompraDetalleEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Compra\CompraEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Compra\CompraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Factura\Crud\FacturaDetalleEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Factura\Crud\FacturaEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Factura\Crud\FacturaPagosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Factura\Crud\FacturaPreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Factura\FormFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\FormInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\Entities\Usuario\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\GenericCrudForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Data\GenericQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\Dashboard\DashboardTareasControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\FormAsignarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\FormProyectos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\FormSeleccionProyecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\Reportes\ReportesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\Tareas\FormDetalleTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\Tareas\FormEditarTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Proyectos\Tareas\FormListaTareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
