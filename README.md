@@ -1,4 +1,4 @@
-### FacturaApp - Demo (Windows Forms, .NET 9)
+### CWIF: sistema de gestión comercial
 
 ## Estructura:
 
