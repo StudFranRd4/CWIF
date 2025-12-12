@@ -58,13 +58,22 @@ Opciones relacionadas al proceso de venta.
 
 ---
 
-### 2.5 Usuarios
+### 2.5 Empresas
+
+Ofrece gestión de multiples negocios y sucursales
+
+* **Sucursales**
+* **Gestión de negocios**
+
+---
+
+### 2.6 Usuarios
 
 Abre el administrador general de usuarios (CRUD dinámico).
 
 ---
 
-### 2.6 Salir
+### 2.7 Salir
 
 Permite cerrar la aplicación, con confirmación.
 
